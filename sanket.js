@@ -1,4 +1,4 @@
 const sanket = () =>{
-    console.log("hi i am sanket")
+    console.log("hello github")
     }
 sanket()
